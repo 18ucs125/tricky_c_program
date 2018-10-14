@@ -1,0 +1,23 @@
+#include<stdio.h> 
+int main() 
+{ 
+      if (printf("Geeks for Geeks") ) 
+      {    } 
+}  
+  
+/* using while condition 
+#include<stdio.h> 
+int main(){ 
+    while (!printf( "Geeks for Geeks" )) 
+    {   } 
+} */
+
+/*Using Macros:
+#include<stdio.h> 
+#define PRINT printf("Geeks for Geeks") 
+int main() 
+{ 
+    if (PRINT) 
+    {    } 
+} */
+//three methods are shown here
